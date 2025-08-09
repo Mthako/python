@@ -1,2 +1,1 @@
-print('HELLO_GITHUB')
-print('Mthabisi')
+print("hello_github")
